@@ -7,3 +7,7 @@
 
 ## [0.0.2] - 2020-07-24
 1. Removed unnecessary image tag
+
+
+## [0.0.3] - 2020-07-26
+1. Better alt message for images
